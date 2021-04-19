@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FootballApp</string>
+
+    <string name="label_team">Team</string>
+    <string name="label_stadium">Stadium</string>
+    <string name="label_description">Description</string>
+    <string name="image_description">Team badge</string>
+    <string name="label_foundation">Foundation</string>
+    <string name="label_liga">Liga de futbol</string>
+</resources>
